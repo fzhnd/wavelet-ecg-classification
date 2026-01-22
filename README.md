@@ -101,6 +101,3 @@ These results are competitive with existing wavelet-based ECG classification met
    ```
 
 All preprocessing, feature extraction, model training, and evaluation steps are executed sequentially inside the notebook.
-
-## Visualization
-The project includes visualization of the **confusion matrix** using a heatmap to clearly illustrate class-wise classification performance.
