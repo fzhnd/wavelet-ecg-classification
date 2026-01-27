@@ -44,8 +44,7 @@ The model was evaluated on a strictly held-out test set (stratified by patient).
 | **F1-Score (NSR)** | **0.96** |
 | **F1-Score (ARR)** | **0.92** |
 | **F1-Score (CHF)** | **0.74** |
-### Confusion Matrix
-![Confusion Matrix](confusion-matrix.png)
+
 ## Installation & Usage
 ### 1. Clone the Repository
 ```bash
