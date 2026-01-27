@@ -61,12 +61,12 @@ Ensure directory looks like this:
 ├── data/
 │   ├── ECGData.csv
 │   └── ECGDataLabel.csv
-├── wavelet-ecg.ipynb
+├── ecg.ipynb
 └── README.md
 ```
 ### 4. Run the Project
 Open the notebook and run all cells:
 ```bash
-jupyter notebook wavelet-ecg.ipynb
+jupyter notebook ecg.ipynb
 
 ```
