@@ -48,8 +48,8 @@ The model was evaluated on a strictly held-out test set (stratified by patient).
 ## Installation & Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/fzhnd/wavelet-ecg-classification.git
-cd wavelet-ecg-classification
+git clone https://github.com/fzhnd/ecg-signal-classification.git
+cd ecg-signal-classification
 ```
 ### 2. Install Dependencies
 ```bash
@@ -61,7 +61,6 @@ Ensure directory looks like this:
 ├── data/
 │   ├── ECGData.csv
 │   └── ECGDataLabel.csv
-├── confusion-matrix.png
 ├── wavelet-ecg.ipynb
 └── README.md
 ```
